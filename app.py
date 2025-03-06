@@ -42,7 +42,8 @@ st.markdown("""
     /* App subtitle */
     .app-subtitle {
         color: green;
-        font-size: 30px;
+        text-align: center;
+        font-size: 20px;
         font-weight: bold;
         margin-bottom: 20px;
     }
@@ -150,9 +151,10 @@ st.markdown("""
         }
         
         .app-subtitle {
-        font-size: 10px;
+        font-size: 12px;
         margin-top: 30px;
         margin-bottom: 10px;
+        text-align: left !important;
         color: green;
         }
         
