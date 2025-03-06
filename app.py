@@ -49,7 +49,7 @@ st.markdown("""
     
     /* Password display */
     .password-display {
-        font-size: 30px;
+        font-size: 40px;
         font-weight: bold;
         color: #b91c1c; /* red-700 equivalent */
         text-align: center;
@@ -82,7 +82,7 @@ st.markdown("""
         background-color: #4f46e5 !important; /* indigo-600 equivalent */
         color: white !important;
         font-weight: bold !important;
-        font-size: 30px !important;
+        font-size: 40px !important;
         width: 100% !important;
         padding: 12px 20px !important;
         border-radius: 8px !important;
