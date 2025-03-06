@@ -150,7 +150,7 @@ st.markdown("""
         }
         
         .app-subtitle {
-        font-size: 12px;
+        font-size: 10px;
         margin-top: 30px;
         margin-bottom: 10px;
         color: green;
