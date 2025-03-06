@@ -41,8 +41,7 @@ st.markdown("""
     
     /* App subtitle */
     .app-subtitle {
-        color: white;
-        text-align: center;
+        color: green;
         font-size: 20px;
         font-weight: bold;
         margin-bottom: 20px;
@@ -306,7 +305,7 @@ if st.session_state.password:
 # Copy to clipboard button (using Streamlit's built-in functionality)
 if st.session_state.password:
     st.code(st.session_state.password, language=None)
-    st.success("👆 Copy the password to your clipboard! 👆")
+    st.success("👆 Copy the password to your clipboard!")
 
 # Author footer
 st.markdown('<div class="footer">Author: Azmat Ali</div>', unsafe_allow_html=True)
