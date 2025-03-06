@@ -49,7 +49,7 @@ st.markdown("""
     
     /* Password display */
     .password-display {
-        font-size: 20px;
+        font-size: 30px;
         font-weight: bold;
         color: #b91c1c; /* red-700 equivalent */
         text-align: center;
