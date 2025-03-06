@@ -151,7 +151,7 @@ st.markdown("""
         }
         
         .app-subtitle {
-        font-size: 12px;
+        font-size: 16px;
         margin-top: 30px;
         margin-bottom: 10px;
         text-align: left !important;
