@@ -42,7 +42,7 @@ st.markdown("""
     /* App subtitle */
     .app-subtitle {
         color: green;
-        font-size: 16px;
+        font-size: 12px;
         font-weight: bold;
         margin-bottom: 20px;
     }
